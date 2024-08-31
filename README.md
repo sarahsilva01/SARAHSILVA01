@@ -1,4 +1,5 @@
 
+
  &nbsp;
  &nbsp;
 <div align="center"
@@ -14,6 +15,11 @@
 
   <!--- snake -->
 
+<div align="center" > 
+ 
+![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/sarahsilva01?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=pink) 
+
+</div>
   
 </div>
 
@@ -35,7 +41,10 @@
 
 ![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
- 
+## Languages
+English - Basic
+
+
 ## Contatos:
 
 <div> 
@@ -43,15 +52,8 @@
 <a href="https://www.linkedin.com/in/sarah-costa-a19394266/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-<div align="center" > 
- 
-![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/sarahsilva01?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=pink) 
-
-</div>
-  
 &nbsp;&nbsp;
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
-
 
 
